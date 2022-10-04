@@ -1,4 +1,6 @@
-# smiletomol
+# smilestomol
+
+This app will accept SMILES formatted strings as a url parameter, convert them to a png, and then serve that image as a web page.
 
 /?smile=CN1CCC[C@H]1c2cccnc2
 
