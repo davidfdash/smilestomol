@@ -9,8 +9,10 @@ pip install rdkit
 pip install flask
 flask --app flask_site.py run
 /////////////////////////////////////////////
-  Test SMILES
+
+Test SMILES
 /?smile=CN1CCC[C@H]1c2cccnc2
+
 /////////////////////////////////////////////
 
 https://192.168.209.1:5000
