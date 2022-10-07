@@ -4,16 +4,16 @@ This app will accept SMILES formatted strings as a url parameter, convert them t
 
 /////////////////////////////////////////////
 
-  Prereqs
-install python 3.10
-pip install update
-pip install rdkit
-pip install flask
-flask --app flask_site.py run
+  Prereqs<br>
+install python 3.10<br>
+pip install update<br>
+pip install rdkit<br>
+pip install flask<br>
+flask --app flask_site.py run<br>
 
 /////////////////////////////////////////////
 
-Test SMILES
+Test SMILES<br>
 /?smile=CN1CCC[C@H]1c2cccnc2
 
 /////////////////////////////////////////////
