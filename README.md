@@ -19,7 +19,9 @@ Test SMILES<br>
 /////////////////////////////////////////////
 
 https://192.168.209.1:5000
+If using certs across machines
 flask --app flask_site.py run --host=192.168.209.1 --cert='client.pem' --key='client_key.pem'
 
 http://192.168.209.1:5000
+if running locally
 flask --app flask_site.py run --host=192.168.209.1
